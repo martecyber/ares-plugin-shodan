@@ -1,0 +1,11 @@
+{
+  "id": "shodan",
+  "version": "1.0.0-beta1",
+  "displayName": "Shodan",
+  "vendor": "Mart\u00edn Romera",
+  "license": "Proprietary",
+  "description": "Given a domain, host, or IP (as a project asset or free text), looks it up on Shodan, creates/updates assets, and creates detections for any CVE Shodan reports \u2014 severity/CVSS resolved against Ares' own CVE knowledge base.",
+  "sdkVersion": "1",
+  "icon": "/img/sources/shodan.svg",
+  "iconLight": "/img/sources/shodan-light.svg"
+}
